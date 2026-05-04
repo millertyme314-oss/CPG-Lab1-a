@@ -10,8 +10,8 @@ Simple Linux commands and file management
 4) Run the shell script with at least 3 folders/directories being [created]()
 
 5) Use the following commands to manipultate the created folder structure:
-6)  [mv]()
-7)  cp[file]()
-8)  rmdir[file]()
-9)  (rmdir -rf)[file]()
-10)  mkdir[file]()
+ -  [mv]()
+ -  cp[file]()
+ -  rmdir[file]()
+ -  (rmdir -rf)[file]()
+ -  mkdir[file]()
