@@ -9,4 +9,4 @@ Simple Linux commands and file management
 
 4) Run the shell script with at least 3 folders/directories being created
 
-5) Use mv, cp, rmdir, and mkdir to manipultate the created folder structure
+5) Use mv, cp, rmdir (rmdir -rf), and mkdir to manipultate the created folder structure
