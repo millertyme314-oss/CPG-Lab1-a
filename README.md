@@ -11,7 +11,7 @@ Simple Linux commands and file management
 
 5) Use the following commands to manipultate the created folder structure:
  -  [mv]()
- -  cp[file]()
- -  rmdir[file]()
- -  (rmdir -rf)[file]()
- -  mkdir[file]()
+ -  [cp]()
+ -  [rmdir]()
+ -  [rmdir -rf]()
+ -  [mkdir]()
