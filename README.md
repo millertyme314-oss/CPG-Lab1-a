@@ -3,7 +3,7 @@ Simple Linux commands and file management
 
 1) Download the [file](https://github.com/millertyme314-oss/CPG-Visual-Proof/blob/main/Download-confirm.png) attached 
 
-2) Convert it to a [shellscript]() using the CLI
+2) Convert it to a [shellscript](https://github.com/millertyme314-oss/CPG-Visual-Proof/blob/main/shellscript-conversion.png) using the CLI
 
 3) Make the file [executable]()
 
